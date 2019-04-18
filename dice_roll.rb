@@ -3,5 +3,8 @@
 # Feel free to google "how to generate a random number in ruby"
 
 def roll
-  range = (2 ,2 ,3 ,4 ,5 ,6)
+ thang = rand(1 ,2 ,3 ,4 ,5 ,6)
+ puts thang
+ return thang
+
 end
